@@ -1,0 +1,19 @@
+.compare-plan {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.compare-plan h2 {
+  color: #333;
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+}
+
+.compare-plan p {
+  color: #666;
+  font-size: 1rem;
+}
+
